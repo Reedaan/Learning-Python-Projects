@@ -1,0 +1,7 @@
+It'a command line todolist.
+
+TODO
+-Storing tasks (directory?)
+-Implement adding tasks
+-Implement removing tasks
+-Implement viewing tasks
