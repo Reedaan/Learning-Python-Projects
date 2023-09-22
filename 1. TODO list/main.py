@@ -33,7 +33,6 @@ while exit == False:
         input("Press any key to continue...")
     elif user_choice == "2":
         add_task(task_list)
-        pass
     elif user_choice == "3":
         remove_task(task_list)
 
