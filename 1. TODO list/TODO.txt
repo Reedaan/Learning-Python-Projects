@@ -1,8 +1,0 @@
-It'a command line todolist.
-
-TODO
--Change the main code to a function (boiler plate)
--Storing tasks in a file
--Display all the tasks when starting the program
--Add date to tasks
--Change the 1,2,3 to add, remove, view
